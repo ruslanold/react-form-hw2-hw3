@@ -1,0 +1,42 @@
+.faset__search{
+  margin: 40px 30px 40px 10px;
+}
+
+form {
+}
+.form__item{
+  margin-left: 20px;
+}
+.form__item ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.form__item ul li{
+  width: 150px;
+}
+.ingridient__name {
+  text-align: center;
+  padding: 10px 0;
+}
+
+input[list],
+select {
+  height: 30px;
+  width: 400px;
+  font-size: 16px;
+  font-weight: 300;
+  outline: none;
+  border: 0;
+  padding: 0 10px;
+  border: 4px solid #28afd4;
+}
+select {
+  background: #fff;
+  height: 38px;
+  width: 200px;
+}
+
+

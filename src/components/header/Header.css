@@ -1,0 +1,8 @@
+.header {
+  text-align: center;
+}
+
+.header img {
+  height: 20vmin;
+  pointer-events: none;
+}
